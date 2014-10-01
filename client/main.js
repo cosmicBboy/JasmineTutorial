@@ -13,7 +13,7 @@ Meteor.startup(function() {
       });
 
       if (user.roles.length > 0) {
-        Roles.addUserToRoles(id, userr.roles);
+        Roles.addUserToRoles(id, user.roles);
       }
     });
   };
