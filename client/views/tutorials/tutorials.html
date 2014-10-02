@@ -1,0 +1,15 @@
+<template name="tutorials">
+  <div class="container">
+    <h1>Tutorials</h1>
+    {{#if tutorials.count}}
+      {{#each tutorials}}
+
+      <div class="tutorialLine">Line</div>
+      {{/each}}
+    {{else}}
+
+    <p class="well bg-warning" id="noTutorialsWarning">There are no tutorials available ...
+    </p>
+    {{/if}}
+  </div>
+</template>

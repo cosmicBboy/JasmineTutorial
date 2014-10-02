@@ -3,7 +3,7 @@ describe("Header template - No Mocks", function() {
         var div = document.createElement("DIV");
         Blaze.render(Template.header, div);
 
-        expect($(div).find("#tutorialsLink")[0]).not.toBeDefined();
+        expect($(div).find("#tutorialsLine")[0]).not.toBeDefined();
     });
 
     it("should be able to login normal user", function (done) {
