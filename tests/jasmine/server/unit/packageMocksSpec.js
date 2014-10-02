@@ -7012,7 +7012,7 @@ var packageMetadata = {
                 },
                 "version": {
                   "type": "constant",
-                  "value": "e42f8a3113484388046d0f2c0b0e6d5d4f1b3cac"
+                  "value": "009c903dd53bdb2556ac40e5faa0b61784c9d695"
                 },
                 "PUBLIC_SETTINGS": {
                   "type": "undefined"
@@ -7274,7 +7274,7 @@ var packageMetadata = {
                 },
                 "sourceMapUrl": {
                   "type": "constant",
-                  "value": "/packages/a41b0d6bbc0c5f233bd37140f39407a3a1abac80.map"
+                  "value": "/packages/012a26290d9cb731a3b52b396e571c8159d11236.map"
                 },
                 "type": {
                   "type": "constant",
@@ -7282,7 +7282,7 @@ var packageMetadata = {
                 }
               }
             },
-            "/packages/a41b0d6bbc0c5f233bd37140f39407a3a1abac80.map": {
+            "/packages/012a26290d9cb731a3b52b396e571c8159d11236.map": {
               "type": "object",
               "members": {
                 "absolutePath": {
@@ -7352,7 +7352,7 @@ var packageMetadata = {
                 },
                 "sourceMapUrl": {
                   "type": "constant",
-                  "value": "/packages/e183cf672b6081bdf9f9450e8283ec8f2f057fed.map"
+                  "value": "/packages/71047b64b5196348bdbe5fd5eea9ac97a5a9eb14.map"
                 },
                 "type": {
                   "type": "constant",
@@ -7360,7 +7360,7 @@ var packageMetadata = {
                 }
               }
             },
-            "/packages/e183cf672b6081bdf9f9450e8283ec8f2f057fed.map": {
+            "/packages/71047b64b5196348bdbe5fd5eea9ac97a5a9eb14.map": {
               "type": "object",
               "members": {
                 "absolutePath": {
@@ -7508,7 +7508,7 @@ var packageMetadata = {
                 },
                 "sourceMapUrl": {
                   "type": "constant",
-                  "value": "/packages/6f9dc00501851e3115edddd5ae7ebd179e65568d.map"
+                  "value": "/packages/803a2be518a0c6c3949e45cf65c4ad627a3d603a.map"
                 },
                 "type": {
                   "type": "constant",
@@ -7516,7 +7516,7 @@ var packageMetadata = {
                 }
               }
             },
-            "/packages/6f9dc00501851e3115edddd5ae7ebd179e65568d.map": {
+            "/packages/803a2be518a0c6c3949e45cf65c4ad627a3d603a.map": {
               "type": "object",
               "members": {
                 "absolutePath": {
@@ -7638,7 +7638,7 @@ var packageMetadata = {
                 },
                 "sourceMapUrl": {
                   "type": "constant",
-                  "value": "/packages/ea0a3a5fda1b335251772f9aa28bdcb0c2e09a35.map"
+                  "value": "/packages/ed3a8b20e91a598de5b24a7c98c5ae4be1c0f9e6.map"
                 },
                 "type": {
                   "type": "constant",
@@ -7646,7 +7646,7 @@ var packageMetadata = {
                 }
               }
             },
-            "/packages/ea0a3a5fda1b335251772f9aa28bdcb0c2e09a35.map": {
+            "/packages/ed3a8b20e91a598de5b24a7c98c5ae4be1c0f9e6.map": {
               "type": "object",
               "members": {
                 "absolutePath": {
@@ -7716,7 +7716,7 @@ var packageMetadata = {
                 },
                 "sourceMapUrl": {
                   "type": "constant",
-                  "value": "/packages/5634407501007199842e07f5237a78dd43fb8276.map"
+                  "value": "/packages/9bc2c5a8b2796fab86b51660ca643e5a49a30c84.map"
                 },
                 "type": {
                   "type": "constant",
@@ -7724,7 +7724,7 @@ var packageMetadata = {
                 }
               }
             },
-            "/packages/5634407501007199842e07f5237a78dd43fb8276.map": {
+            "/packages/9bc2c5a8b2796fab86b51660ca643e5a49a30c84.map": {
               "type": "object",
               "members": {
                 "absolutePath": {
@@ -7742,7 +7742,7 @@ var packageMetadata = {
                 },
                 "sourceMapUrl": {
                   "type": "constant",
-                  "value": "/packages/9845ddb72d91d7da44fe26be650af6ef3d84ac82.map"
+                  "value": "/packages/c823646e93561d86e6bcb3cbd2457a8540e519c1.map"
                 },
                 "type": {
                   "type": "constant",
@@ -7750,7 +7750,7 @@ var packageMetadata = {
                 }
               }
             },
-            "/packages/9845ddb72d91d7da44fe26be650af6ef3d84ac82.map": {
+            "/packages/c823646e93561d86e6bcb3cbd2457a8540e519c1.map": {
               "type": "object",
               "members": {
                 "absolutePath": {
@@ -7924,7 +7924,7 @@ var packageMetadata = {
                 },
                 "sourceMapUrl": {
                   "type": "constant",
-                  "value": "/packages/b566935cec68ba81cc87f9e7104179a6785aef8c.map"
+                  "value": "/packages/20335b7b37165980ddd9f23943b2e5b00aae1cc2.map"
                 },
                 "type": {
                   "type": "constant",
@@ -7932,7 +7932,7 @@ var packageMetadata = {
                 }
               }
             },
-            "/packages/b566935cec68ba81cc87f9e7104179a6785aef8c.map": {
+            "/packages/20335b7b37165980ddd9f23943b2e5b00aae1cc2.map": {
               "type": "object",
               "members": {
                 "absolutePath": {
@@ -7950,7 +7950,7 @@ var packageMetadata = {
                 },
                 "sourceMapUrl": {
                   "type": "constant",
-                  "value": "/packages/5ec4e54b22ab2196bcc772669c0619f71666393e.map"
+                  "value": "/packages/7b7ff7ee2ccdccd85a1ad0d8dc9d96193e29e8b0.map"
                 },
                 "type": {
                   "type": "constant",
@@ -7958,7 +7958,7 @@ var packageMetadata = {
                 }
               }
             },
-            "/packages/5ec4e54b22ab2196bcc772669c0619f71666393e.map": {
+            "/packages/7b7ff7ee2ccdccd85a1ad0d8dc9d96193e29e8b0.map": {
               "type": "object",
               "members": {
                 "absolutePath": {
@@ -7976,7 +7976,7 @@ var packageMetadata = {
                 },
                 "sourceMapUrl": {
                   "type": "constant",
-                  "value": "/packages/b2bfaf0b5e9a3e0ad20fa4f549d2546b2580c3aa.map"
+                  "value": "/packages/94972067650078763eca7f54b72598624e0d8b9d.map"
                 },
                 "type": {
                   "type": "constant",
@@ -7984,7 +7984,7 @@ var packageMetadata = {
                 }
               }
             },
-            "/packages/b2bfaf0b5e9a3e0ad20fa4f549d2546b2580c3aa.map": {
+            "/packages/94972067650078763eca7f54b72598624e0d8b9d.map": {
               "type": "object",
               "members": {
                 "absolutePath": {
@@ -8106,7 +8106,7 @@ var packageMetadata = {
                 },
                 "sourceMapUrl": {
                   "type": "constant",
-                  "value": "/packages/d2110506f02a571884700671a929adbe2bd0c471.map"
+                  "value": "/packages/6b25309b1f0dcf775b44984324878d6f8ad1abc2.map"
                 },
                 "type": {
                   "type": "constant",
@@ -8114,7 +8114,7 @@ var packageMetadata = {
                 }
               }
             },
-            "/packages/d2110506f02a571884700671a929adbe2bd0c471.map": {
+            "/packages/6b25309b1f0dcf775b44984324878d6f8ad1abc2.map": {
               "type": "object",
               "members": {
                 "absolutePath": {
@@ -8132,7 +8132,7 @@ var packageMetadata = {
                 },
                 "sourceMapUrl": {
                   "type": "constant",
-                  "value": "/packages/07af27af7aaadd08918b0013abd7ca0c5ce5aaa8.map"
+                  "value": "/packages/6420eb7dcc133dc4c49a090c3c6f31bf3ce71fe8.map"
                 },
                 "type": {
                   "type": "constant",
@@ -8140,7 +8140,7 @@ var packageMetadata = {
                 }
               }
             },
-            "/packages/07af27af7aaadd08918b0013abd7ca0c5ce5aaa8.map": {
+            "/packages/6420eb7dcc133dc4c49a090c3c6f31bf3ce71fe8.map": {
               "type": "object",
               "members": {
                 "absolutePath": {
@@ -8262,7 +8262,7 @@ var packageMetadata = {
                 },
                 "sourceMapUrl": {
                   "type": "constant",
-                  "value": "/packages/6b18ea50d8f8d2ce59b5781394220f6cb28cfe09.map"
+                  "value": "/packages/da7f2ac81c3fd9daebf49ce9a6980a54caa1dc17.map"
                 },
                 "type": {
                   "type": "constant",
@@ -8270,7 +8270,7 @@ var packageMetadata = {
                 }
               }
             },
-            "/packages/6b18ea50d8f8d2ce59b5781394220f6cb28cfe09.map": {
+            "/packages/da7f2ac81c3fd9daebf49ce9a6980a54caa1dc17.map": {
               "type": "object",
               "members": {
                 "absolutePath": {
@@ -8288,7 +8288,7 @@ var packageMetadata = {
                 },
                 "sourceMapUrl": {
                   "type": "constant",
-                  "value": "/packages/f75e25eb7619c66f9bb6ad601176694aefe636c2.map"
+                  "value": "/packages/859321d8a5ada22725d36639d9df70e2eaab4900.map"
                 },
                 "type": {
                   "type": "constant",
@@ -8296,7 +8296,7 @@ var packageMetadata = {
                 }
               }
             },
-            "/packages/f75e25eb7619c66f9bb6ad601176694aefe636c2.map": {
+            "/packages/859321d8a5ada22725d36639d9df70e2eaab4900.map": {
               "type": "object",
               "members": {
                 "absolutePath": {
@@ -8340,7 +8340,7 @@ var packageMetadata = {
                 },
                 "sourceMapUrl": {
                   "type": "constant",
-                  "value": "/packages/a7e17bba736b9c2af25f638ce3e75f0d954750bf.map"
+                  "value": "/packages/9c5d152169ba9a5a57b6b8ec28e64bbd0d308077.map"
                 },
                 "type": {
                   "type": "constant",
@@ -8348,7 +8348,7 @@ var packageMetadata = {
                 }
               }
             },
-            "/packages/a7e17bba736b9c2af25f638ce3e75f0d954750bf.map": {
+            "/packages/9c5d152169ba9a5a57b6b8ec28e64bbd0d308077.map": {
               "type": "object",
               "members": {
                 "absolutePath": {
@@ -8444,7 +8444,7 @@ var packageMetadata = {
                 },
                 "sourceMapUrl": {
                   "type": "constant",
-                  "value": "/packages/9bb64496d615992c9688a9d3a6a4c0504a00c001.map"
+                  "value": "/packages/6c24ef7bd026690306effa4c6e77fd0c21902b5e.map"
                 },
                 "type": {
                   "type": "constant",
@@ -8452,7 +8452,7 @@ var packageMetadata = {
                 }
               }
             },
-            "/packages/9bb64496d615992c9688a9d3a6a4c0504a00c001.map": {
+            "/packages/6c24ef7bd026690306effa4c6e77fd0c21902b5e.map": {
               "type": "object",
               "members": {
                 "absolutePath": {
@@ -8522,7 +8522,7 @@ var packageMetadata = {
                 },
                 "sourceMapUrl": {
                   "type": "constant",
-                  "value": "/packages/67f84c96ef6ef655024c55a257280828029d2d0c.map"
+                  "value": "/packages/442b1bc169c2a1fb8c1fc5420041baa1ed9cb940.map"
                 },
                 "type": {
                   "type": "constant",
@@ -8530,7 +8530,7 @@ var packageMetadata = {
                 }
               }
             },
-            "/packages/67f84c96ef6ef655024c55a257280828029d2d0c.map": {
+            "/packages/442b1bc169c2a1fb8c1fc5420041baa1ed9cb940.map": {
               "type": "object",
               "members": {
                 "absolutePath": {
@@ -8704,7 +8704,7 @@ var packageMetadata = {
                 },
                 "sourceMapUrl": {
                   "type": "constant",
-                  "value": "/packages/fa6d15347dd76a8b1464ca3a0d4605598857db91.map"
+                  "value": "/packages/cb20740019f26bdca2faa89ba9c973f618118521.map"
                 },
                 "type": {
                   "type": "constant",
@@ -8712,7 +8712,7 @@ var packageMetadata = {
                 }
               }
             },
-            "/packages/fa6d15347dd76a8b1464ca3a0d4605598857db91.map": {
+            "/packages/cb20740019f26bdca2faa89ba9c973f618118521.map": {
               "type": "object",
               "members": {
                 "absolutePath": {
@@ -8753,12 +8753,44 @@ var packageMetadata = {
                 }
               }
             },
+            "/client/views/application/template.loading.js": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/Niels/git/JasmineTutorials/.meteor/local/build/programs/web.browser/app/client/views/application/template.loading.js"
+                },
+                "sourceMapUrl": {
+                  "type": "undefined"
+                },
+                "type": {
+                  "type": "constant",
+                  "value": "js"
+                }
+              }
+            },
             "/client/views/header/template.header.js": {
               "type": "object",
               "members": {
                 "absolutePath": {
                   "type": "constant",
                   "value": "/Users/Niels/git/JasmineTutorials/.meteor/local/build/programs/web.browser/app/client/views/header/template.header.js"
+                },
+                "sourceMapUrl": {
+                  "type": "undefined"
+                },
+                "type": {
+                  "type": "constant",
+                  "value": "js"
+                }
+              }
+            },
+            "/client/views/introduction/template.introduction.js": {
+              "type": "object",
+              "members": {
+                "absolutePath": {
+                  "type": "constant",
+                  "value": "/Users/Niels/git/JasmineTutorials/.meteor/local/build/programs/web.browser/app/client/views/introduction/template.introduction.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9034,7 +9066,7 @@ var packageMetadata = {
               "members": {
                 "content": {
                   "type": "constant",
-                  "value": "{\"manifest\":[{\"path\":\"packages/underscore.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/underscore.js?0a80a8623e1b40b5df5a05582f288ddd586eaa18\",\"sourceMap\":\"packages/underscore.js.map\",\"sourceMapUrl\":\"/packages/0a80a8623e1b40b5df5a05582f288ddd586eaa18.map\",\"size\":150686,\"hash\":\"0a80a8623e1b40b5df5a05582f288ddd586eaa18\"},{\"path\":\"packages/meteor.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/meteor.js?a41b0d6bbc0c5f233bd37140f39407a3a1abac80\",\"sourceMap\":\"packages/meteor.js.map\",\"sourceMapUrl\":\"/packages/a41b0d6bbc0c5f233bd37140f39407a3a1abac80.map\",\"size\":101721,\"hash\":\"a41b0d6bbc0c5f233bd37140f39407a3a1abac80\"},{\"path\":\"packages/json.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/json.js?e22856eae714c681199eabc5c0710b904b125554\",\"sourceMap\":\"packages/json.js.map\",\"sourceMapUrl\":\"/packages/e22856eae714c681199eabc5c0710b904b125554.map\",\"size\":58343,\"hash\":\"e22856eae714c681199eabc5c0710b904b125554\"},{\"path\":\"packages/base64.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/base64.js?1a63019243b73298e2964e6d4680f25bca657726\",\"sourceMap\":\"packages/base64.js.map\",\"sourceMapUrl\":\"/packages/1a63019243b73298e2964e6d4680f25bca657726.map\",\"size\":15685,\"hash\":\"1a63019243b73298e2964e6d4680f25bca657726\"},{\"path\":\"packages/ejson.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/ejson.js?e183cf672b6081bdf9f9450e8283ec8f2f057fed\",\"sourceMap\":\"packages/ejson.js.map\",\"sourceMapUrl\":\"/packages/e183cf672b6081bdf9f9450e8283ec8f2f057fed.map\",\"size\":75488,\"hash\":\"e183cf672b6081bdf9f9450e8283ec8f2f057fed\"},{\"path\":\"packages/logging.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/logging.js?07e201b648f16be8435a4f666156995eeda0c750\",\"sourceMap\":\"packages/logging.js.map\",\"sourceMapUrl\":\"/packages/07e201b648f16be8435a4f666156995eeda0c750.map\",\"size\":27996,\"hash\":\"07e201b648f16be8435a4f666156995eeda0c750\"},{\"path\":\"packages/reload.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/reload.js?92c60ae92333f52459da974d9158da7fedeb6375\",\"sourceMap\":\"packages/reload.js.map\",\"sourceMapUrl\":\"/packages/92c60ae92333f52459da974d9158da7fedeb6375.map\",\"size\":28228,\"hash\":\"92c60ae92333f52459da974d9158da7fedeb6375\"},{\"path\":\"packages/tracker.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/tracker.js?192a05cc46b867dadbe8bf90dd961f6f8fd1574f\",\"sourceMap\":\"packages/tracker.js.map\",\"sourceMapUrl\":\"/packages/192a05cc46b867dadbe8bf90dd961f6f8fd1574f.map\",\"size\":66854,\"hash\":\"192a05cc46b867dadbe8bf90dd961f6f8fd1574f\"},{\"path\":\"packages/random.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/random.js?fe7b46080c91ce482acf6fc326afbc5b176f0502\",\"sourceMap\":\"packages/random.js.map\",\"sourceMapUrl\":\"/packages/fe7b46080c91ce482acf6fc326afbc5b176f0502.map\",\"size\":24099,\"hash\":\"fe7b46080c91ce482acf6fc326afbc5b176f0502\"},{\"path\":\"packages/retry.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/retry.js?1f1dd2c35d300110fdaba51ce4473583bc3bf031\",\"sourceMap\":\"packages/retry.js.map\",\"sourceMapUrl\":\"/packages/1f1dd2c35d300110fdaba51ce4473583bc3bf031.map\",\"size\":7245,\"hash\":\"1f1dd2c35d300110fdaba51ce4473583bc3bf031\"},{\"path\":\"packages/check.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/check.js?6f9dc00501851e3115edddd5ae7ebd179e65568d\",\"sourceMap\":\"packages/check.js.map\",\"sourceMapUrl\":\"/packages/6f9dc00501851e3115edddd5ae7ebd179e65568d.map\",\"size\":33623,\"hash\":\"6f9dc00501851e3115edddd5ae7ebd179e65568d\"},{\"path\":\"packages/id-map.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/id-map.js?9ea6eaae8d74693ce2505a858d9a5e60cf191298\",\"sourceMap\":\"packages/id-map.js.map\",\"sourceMapUrl\":\"/packages/9ea6eaae8d74693ce2505a858d9a5e60cf191298.map\",\"size\":8584,\"hash\":\"9ea6eaae8d74693ce2505a858d9a5e60cf191298\"},{\"path\":\"packages/ordered-dict.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/ordered-dict.js?bf8af2f26c8d96bf8b2e6b407d3ed69f23c2cd37\",\"sourceMap\":\"packages/ordered-dict.js.map\",\"sourceMapUrl\":\"/packages/bf8af2f26c8d96bf8b2e6b407d3ed69f23c2cd37.map\",\"size\":20395,\"hash\":\"bf8af2f26c8d96bf8b2e6b407d3ed69f23c2cd37\"},{\"path\":\"packages/geojson-utils.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/geojson-utils.js?81b79d5cf96d00b4b7a28987debcffb665c17526\",\"sourceMap\":\"packages/geojson-utils.js.map\",\"sourceMapUrl\":\"/packages/81b79d5cf96d00b4b7a28987debcffb665c17526.map\",\"size\":48339,\"hash\":\"81b79d5cf96d00b4b7a28987debcffb665c17526\"},{\"path\":\"packages/minimongo.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/minimongo.js?9005f7df7e2bef877712fee40d7b14aa8f5d4f8b\",\"sourceMap\":\"packages/minimongo.js.map\",\"sourceMapUrl\":\"/packages/9005f7df7e2bef877712fee40d7b14aa8f5d4f8b.map\",\"size\":427384,\"hash\":\"9005f7df7e2bef877712fee40d7b14aa8f5d4f8b\"},{\"path\":\"packages/ddp.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/ddp.js?ea0a3a5fda1b335251772f9aa28bdcb0c2e09a35\",\"sourceMap\":\"packages/ddp.js.map\",\"sourceMapUrl\":\"/packages/ea0a3a5fda1b335251772f9aa28bdcb0c2e09a35.map\",\"size\":613359,\"hash\":\"ea0a3a5fda1b335251772f9aa28bdcb0c2e09a35\"},{\"path\":\"packages/follower-livedata.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/follower-livedata.js?74156c6baa89da861fc4ddb58ef158eac71e58e0\",\"sourceMap\":\"packages/follower-livedata.js.map\",\"sourceMapUrl\":\"/packages/74156c6baa89da861fc4ddb58ef158eac71e58e0.map\",\"size\":1490,\"hash\":\"74156c6baa89da861fc4ddb58ef158eac71e58e0\"},{\"path\":\"packages/application-configuration.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/application-configuration.js?dcbf1f0774460fccf098a4c9e8fad4c3a0f2952f\",\"sourceMap\":\"packages/application-configuration.js.map\",\"sourceMapUrl\":\"/packages/dcbf1f0774460fccf098a4c9e8fad4c3a0f2952f.map\",\"size\":1485,\"hash\":\"dcbf1f0774460fccf098a4c9e8fad4c3a0f2952f\"},{\"path\":\"packages/mongo.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/mongo.js?5634407501007199842e07f5237a78dd43fb8276\",\"sourceMap\":\"packages/mongo.js.map\",\"sourceMapUrl\":\"/packages/5634407501007199842e07f5237a78dd43fb8276.map\",\"size\":146646,\"hash\":\"5634407501007199842e07f5237a78dd43fb8276\"},{\"path\":\"packages/autoupdate.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/autoupdate.js?9845ddb72d91d7da44fe26be650af6ef3d84ac82\",\"sourceMap\":\"packages/autoupdate.js.map\",\"sourceMapUrl\":\"/packages/9845ddb72d91d7da44fe26be650af6ef3d84ac82.map\",\"size\":16662,\"hash\":\"9845ddb72d91d7da44fe26be650af6ef3d84ac82\"},{\"path\":\"packages/meteor-platform.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/meteor-platform.js?499a2f8522e25820b1153c69a92751ccaae507b3\",\"sourceMap\":\"packages/meteor-platform.js.map\",\"sourceMapUrl\":\"/packages/499a2f8522e25820b1153c69a92751ccaae507b3.map\",\"size\":1384,\"hash\":\"499a2f8522e25820b1153c69a92751ccaae507b3\"},{\"path\":\"packages/localstorage.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/localstorage.js?9ec7d68858d2e33aa807e5cfd5e12bb4d62fe00c\",\"sourceMap\":\"packages/localstorage.js.map\",\"sourceMapUrl\":\"/packages/9ec7d68858d2e33aa807e5cfd5e12bb4d62fe00c.map\",\"size\":7092,\"hash\":\"9ec7d68858d2e33aa807e5cfd5e12bb4d62fe00c\"},{\"path\":\"packages/jquery.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/jquery.js?265926494aaa3929cd2e30da265211c5929f37a4\",\"sourceMap\":\"packages/jquery.js.map\",\"sourceMapUrl\":\"/packages/265926494aaa3929cd2e30da265211c5929f37a4.map\",\"size\":1295407,\"hash\":\"265926494aaa3929cd2e30da265211c5929f37a4\"},{\"path\":\"packages/deps.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/deps.js?504589e1e9585dec8f9f6094e5a87b22de3783a1\",\"sourceMap\":\"packages/deps.js.map\",\"sourceMapUrl\":\"/packages/504589e1e9585dec8f9f6094e5a87b22de3783a1.map\",\"size\":1442,\"hash\":\"504589e1e9585dec8f9f6094e5a87b22de3783a1\"},{\"path\":\"packages/htmljs.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/htmljs.js?b0108e24d5956ee910ea579c7a4ace00b4ecd4ae\",\"sourceMap\":\"packages/htmljs.js.map\",\"sourceMapUrl\":\"/packages/b0108e24d5956ee910ea579c7a4ace00b4ecd4ae.map\",\"size\":110439,\"hash\":\"b0108e24d5956ee910ea579c7a4ace00b4ecd4ae\"},{\"path\":\"packages/observe-sequence.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/observe-sequence.js?2fd807ea171ead273b9e6458607cb226012d9240\",\"sourceMap\":\"packages/observe-sequence.js.map\",\"sourceMapUrl\":\"/packages/2fd807ea171ead273b9e6458607cb226012d9240.map\",\"size\":30271,\"hash\":\"2fd807ea171ead273b9e6458607cb226012d9240\"},{\"path\":\"packages/reactive-var.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/reactive-var.js?b566935cec68ba81cc87f9e7104179a6785aef8c\",\"sourceMap\":\"packages/reactive-var.js.map\",\"sourceMapUrl\":\"/packages/b566935cec68ba81cc87f9e7104179a6785aef8c.map\",\"size\":8494,\"hash\":\"b566935cec68ba81cc87f9e7104179a6785aef8c\"},{\"path\":\"packages/blaze.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/blaze.js?5ec4e54b22ab2196bcc772669c0619f71666393e\",\"sourceMap\":\"packages/blaze.js.map\",\"sourceMapUrl\":\"/packages/5ec4e54b22ab2196bcc772669c0619f71666393e.map\",\"size\":333058,\"hash\":\"5ec4e54b22ab2196bcc772669c0619f71666393e\"},{\"path\":\"packages/accounts-base.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/accounts-base.js?b2bfaf0b5e9a3e0ad20fa4f549d2546b2580c3aa\",\"sourceMap\":\"packages/accounts-base.js.map\",\"sourceMapUrl\":\"/packages/b2bfaf0b5e9a3e0ad20fa4f549d2546b2580c3aa.map\",\"size\":82616,\"hash\":\"b2bfaf0b5e9a3e0ad20fa4f549d2546b2580c3aa\"},{\"path\":\"packages/sha.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/sha.js?65ef52f7221944768bfc2049d6b7e163c8ae2615\",\"sourceMap\":\"packages/sha.js.map\",\"sourceMapUrl\":\"/packages/65ef52f7221944768bfc2049d6b7e163c8ae2615.map\",\"size\":19584,\"hash\":\"65ef52f7221944768bfc2049d6b7e163c8ae2615\"},{\"path\":\"packages/srp.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/srp.js?e2e28156e8c912d504a3586351c8a1119f664cfd\",\"sourceMap\":\"packages/srp.js.map\",\"sourceMapUrl\":\"/packages/e2e28156e8c912d504a3586351c8a1119f664cfd.map\",\"size\":173470,\"hash\":\"e2e28156e8c912d504a3586351c8a1119f664cfd\"},{\"path\":\"packages/accounts-password.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/accounts-password.js?6c517b689e15ab07dd443895b7ed801683dda159\",\"sourceMap\":\"packages/accounts-password.js.map\",\"sourceMapUrl\":\"/packages/6c517b689e15ab07dd443895b7ed801683dda159.map\",\"size\":33053,\"hash\":\"6c517b689e15ab07dd443895b7ed801683dda159\"},{\"path\":\"packages/alanning_roles.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/alanning_roles.js?79ec06e46df4edfbc286f83d1ad8064d46d44990\",\"sourceMap\":\"packages/alanning_roles.js.map\",\"sourceMapUrl\":\"/packages/79ec06e46df4edfbc286f83d1ad8064d46d44990.map\",\"size\":94498,\"hash\":\"79ec06e46df4edfbc286f83d1ad8064d46d44990\"},{\"path\":\"packages/reactive-dict.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/reactive-dict.js?d2110506f02a571884700671a929adbe2bd0c471\",\"sourceMap\":\"packages/reactive-dict.js.map\",\"sourceMapUrl\":\"/packages/d2110506f02a571884700671a929adbe2bd0c471.map\",\"size\":14138,\"hash\":\"d2110506f02a571884700671a929adbe2bd0c471\"},{\"path\":\"packages/templating.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/templating.js?07af27af7aaadd08918b0013abd7ca0c5ce5aaa8\",\"sourceMap\":\"packages/templating.js.map\",\"sourceMapUrl\":\"/packages/07af27af7aaadd08918b0013abd7ca0c5ce5aaa8.map\",\"size\":9166,\"hash\":\"07af27af7aaadd08918b0013abd7ca0c5ce5aaa8\"},{\"path\":\"packages/iron_core.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_core.js?fe41a023a7a6f1ded90b0729437928a8ddccc7d4\",\"sourceMap\":\"packages/iron_core.js.map\",\"sourceMapUrl\":\"/packages/fe41a023a7a6f1ded90b0729437928a8ddccc7d4.map\",\"size\":31679,\"hash\":\"fe41a023a7a6f1ded90b0729437928a8ddccc7d4\"},{\"path\":\"packages/ui.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/ui.js?5a663333fd30f8fd913f110e0ef779e84f67c4b8\",\"sourceMap\":\"packages/ui.js.map\",\"sourceMapUrl\":\"/packages/5a663333fd30f8fd913f110e0ef779e84f67c4b8.map\",\"size\":1529,\"hash\":\"5a663333fd30f8fd913f110e0ef779e84f67c4b8\"},{\"path\":\"packages/iron_dynamic-template.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_dynamic-template.js?32038885cb1dad7957291ffebfffcb7f8cd57d20\",\"sourceMap\":\"packages/iron_dynamic-template.js.map\",\"sourceMapUrl\":\"/packages/32038885cb1dad7957291ffebfffcb7f8cd57d20.map\",\"size\":51775,\"hash\":\"32038885cb1dad7957291ffebfffcb7f8cd57d20\"},{\"path\":\"packages/iron_layout.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_layout.js?080dc95e770e3130757bf6af69fd0abb99573ae4\",\"sourceMap\":\"packages/iron_layout.js.map\",\"sourceMapUrl\":\"/packages/080dc95e770e3130757bf6af69fd0abb99573ae4.map\",\"size\":56973,\"hash\":\"080dc95e770e3130757bf6af69fd0abb99573ae4\"},{\"path\":\"packages/iron_router.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_router.js?6b18ea50d8f8d2ce59b5781394220f6cb28cfe09\",\"sourceMap\":\"packages/iron_router.js.map\",\"sourceMapUrl\":\"/packages/6b18ea50d8f8d2ce59b5781394220f6cb28cfe09.map\",\"size\":250294,\"hash\":\"6b18ea50d8f8d2ce59b5781394220f6cb28cfe09\"},{\"path\":\"packages/sanjo_jasmine.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/sanjo_jasmine.js?f75e25eb7619c66f9bb6ad601176694aefe636c2\",\"sourceMap\":\"packages/sanjo_jasmine.js.map\",\"sourceMapUrl\":\"/packages/f75e25eb7619c66f9bb6ad601176694aefe636c2.map\",\"size\":545689,\"hash\":\"f75e25eb7619c66f9bb6ad601176694aefe636c2\"},{\"path\":\"packages/url.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/url.js?f267b683007ca477629c166b4bd43499e3122351\",\"sourceMap\":\"packages/url.js.map\",\"sourceMapUrl\":\"/packages/f267b683007ca477629c166b4bd43499e3122351.map\",\"size\":6612,\"hash\":\"f267b683007ca477629c166b4bd43499e3122351\"},{\"path\":\"packages/http.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/http.js?a7e17bba736b9c2af25f638ce3e75f0d954750bf\",\"sourceMap\":\"packages/http.js.map\",\"sourceMapUrl\":\"/packages/a7e17bba736b9c2af25f638ce3e75f0d954750bf.map\",\"size\":33496,\"hash\":\"a7e17bba736b9c2af25f638ce3e75f0d954750bf\"},{\"path\":\"packages/velocity_core.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/velocity_core.js?6ca46c76b400ce620d5a99a1a6edfec60ca0ba1a\",\"sourceMap\":\"packages/velocity_core.js.map\",\"sourceMapUrl\":\"/packages/6ca46c76b400ce620d5a99a1a6edfec60ca0ba1a.map\",\"size\":6854,\"hash\":\"6ca46c76b400ce620d5a99a1a6edfec60ca0ba1a\"},{\"path\":\"packages/amplify.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/amplify.js?0943ecb804169b991257a319fa92b9e6f34e2d1b\",\"sourceMap\":\"packages/amplify.js.map\",\"sourceMapUrl\":\"/packages/0943ecb804169b991257a319fa92b9e6f34e2d1b.map\",\"size\":88428,\"hash\":\"0943ecb804169b991257a319fa92b9e6f34e2d1b\"},{\"path\":\"packages/less.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/less.js?7d1bf981a25a449d6270558bcfc983313c40cd26\",\"sourceMap\":\"packages/less.js.map\",\"sourceMapUrl\":\"/packages/7d1bf981a25a449d6270558bcfc983313c40cd26.map\",\"size\":1286,\"hash\":\"7d1bf981a25a449d6270558bcfc983313c40cd26\"},{\"path\":\"packages/velocity_html-reporter.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/velocity_html-reporter.js?9bb64496d615992c9688a9d3a6a4c0504a00c001\",\"sourceMap\":\"packages/velocity_html-reporter.js.map\",\"sourceMapUrl\":\"/packages/9bb64496d615992c9688a9d3a6a4c0504a00c001.map\",\"size\":83898,\"hash\":\"9bb64496d615992c9688a9d3a6a4c0504a00c001\"},{\"path\":\"packages/sacha_spin.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/sacha_spin.js?6ab6fb94c8dfd98b9fdc1a9831a8051edeec5c04\",\"sourceMap\":\"packages/sacha_spin.js.map\",\"sourceMapUrl\":\"/packages/6ab6fb94c8dfd98b9fdc1a9831a8051edeec5c04.map\",\"size\":48440,\"hash\":\"6ab6fb94c8dfd98b9fdc1a9831a8051edeec5c04\"},{\"path\":\"packages/ian_bootstrap-3.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/ian_bootstrap-3.js?a879af171425e8f04aa2b9c4eb6d83eb72d9bef0\",\"sourceMap\":\"packages/ian_bootstrap-3.js.map\",\"sourceMapUrl\":\"/packages/a879af171425e8f04aa2b9c4eb6d83eb72d9bef0.map\",\"size\":34027,\"hash\":\"a879af171425e8f04aa2b9c4eb6d83eb72d9bef0\"},{\"path\":\"packages/session.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/session.js?67f84c96ef6ef655024c55a257280828029d2d0c\",\"sourceMap\":\"packages/session.js.map\",\"sourceMapUrl\":\"/packages/67f84c96ef6ef655024c55a257280828029d2d0c.map\",\"size\":7816,\"hash\":\"67f84c96ef6ef655024c55a257280828029d2d0c\"},{\"path\":\"packages/handlebars.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/handlebars.js?038145b6256cd6a69c11650ed6bf12b093920095\",\"sourceMap\":\"packages/handlebars.js.map\",\"sourceMapUrl\":\"/packages/038145b6256cd6a69c11650ed6bf12b093920095.map\",\"size\":1292,\"hash\":\"038145b6256cd6a69c11650ed6bf12b093920095\"},{\"path\":\"packages/stylus.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/stylus.js?48b7e3e0953c004a73211d7489462e73ed11be2c\",\"sourceMap\":\"packages/stylus.js.map\",\"sourceMapUrl\":\"/packages/48b7e3e0953c004a73211d7489462e73ed11be2c.map\",\"size\":1288,\"hash\":\"48b7e3e0953c004a73211d7489462e73ed11be2c\"},{\"path\":\"packages/anti_i18n.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/anti_i18n.js?b753e9e958be5df82d8bdde8dc342a2870ccf372\",\"sourceMap\":\"packages/anti_i18n.js.map\",\"sourceMapUrl\":\"/packages/b753e9e958be5df82d8bdde8dc342a2870ccf372.map\",\"size\":11110,\"hash\":\"b753e9e958be5df82d8bdde8dc342a2870ccf372\"},{\"path\":\"packages/ian_accounts-ui-bootstrap-3.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/ian_accounts-ui-bootstrap-3.js?4355f1b108aa7a8744097a8261049e7ba9f7539f\",\"sourceMap\":\"packages/ian_accounts-ui-bootstrap-3.js.map\",\"sourceMapUrl\":\"/packages/4355f1b108aa7a8744097a8261049e7ba9f7539f.map\",\"size\":277063,\"hash\":\"4355f1b108aa7a8744097a8261049e7ba9f7539f\"},{\"path\":\"packages/webapp.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/webapp.js?e1be090051b82f046484dccc2de7d747e50c7328\",\"sourceMap\":\"packages/webapp.js.map\",\"sourceMapUrl\":\"/packages/e1be090051b82f046484dccc2de7d747e50c7328.map\",\"size\":3106,\"hash\":\"e1be090051b82f046484dccc2de7d747e50c7328\"},{\"path\":\"packages/livedata.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/livedata.js?718526445deb4d9baacb6d92c551adea1d36c1e1\",\"sourceMap\":\"packages/livedata.js.map\",\"sourceMapUrl\":\"/packages/718526445deb4d9baacb6d92c551adea1d36c1e1.map\",\"size\":1413,\"hash\":\"718526445deb4d9baacb6d92c551adea1d36c1e1\"},{\"path\":\"packages/spacebars.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/spacebars.js?fa6d15347dd76a8b1464ca3a0d4605598857db91\",\"sourceMap\":\"packages/spacebars.js.map\",\"sourceMapUrl\":\"/packages/fa6d15347dd76a8b1464ca3a0d4605598857db91.map\",\"size\":40717,\"hash\":\"fa6d15347dd76a8b1464ca3a0d4605598857db91\"},{\"path\":\"packages/global-imports.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/global-imports.js?014ae7bb2cc02fbb838f5972ca8a41f4b319f0b9\",\"size\":1023,\"hash\":\"014ae7bb2cc02fbb838f5972ca8a41f4b319f0b9\"},{\"path\":\"app/client/views/application/template.layout.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/views/application/template.layout.js?df3541616350122db3caaa02a68386716cc64f79\",\"size\":263,\"hash\":\"df3541616350122db3caaa02a68386716cc64f79\"},{\"path\":\"app/client/views/header/template.header.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/views/header/template.header.js?e8bb6fbd56a88d4dab5162be9fa40b3685a40af6\",\"size\":1722,\"hash\":\"e8bb6fbd56a88d4dab5162be9fa40b3685a40af6\"},{\"path\":\"app/lib/router.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/lib/router.js?6d51bd359c53a02c470b86e0ed75bf646f460a35\",\"size\":1380,\"hash\":\"6d51bd359c53a02c470b86e0ed75bf646f460a35\"},{\"path\":\"app/lib/tutorialCollection.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/lib/tutorialCollection.js?89bfe026c8cef8675e7edb8eda98deaf73cedda7\",\"size\":3132,\"hash\":\"89bfe026c8cef8675e7edb8eda98deaf73cedda7\"},{\"path\":\"app/lib/tutorialRegistrationsCollection.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/lib/tutorialRegistrationsCollection.js?a4d785b96dbfad884f60729cfa39c343ba4c95f7\",\"size\":90,\"hash\":\"a4d785b96dbfad884f60729cfa39c343ba4c95f7\"},{\"path\":\"app/client/main.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/main.js?06427a059df0cba9a5f7eafe574fe35d4443df2f\",\"size\":595,\"hash\":\"06427a059df0cba9a5f7eafe574fe35d4443df2f\"},{\"path\":\"packages/service-configuration.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/service-configuration.js?262da6fb1e9c97be84333c429c9a2929c80f8e3b\",\"sourceMap\":\"packages/service-configuration.js.map\",\"sourceMapUrl\":\"/packages/262da6fb1e9c97be84333c429c9a2929c80f8e3b.map\",\"size\":5082,\"hash\":\"262da6fb1e9c97be84333c429c9a2929c80f8e3b\"},{\"path\":\"897d7ded52ae8965d42c8e86c2e0c6fd85d755e8.css\",\"where\":\"client\",\"type\":\"css\",\"cacheable\":true,\"url\":\"/897d7ded52ae8965d42c8e86c2e0c6fd85d755e8.css\",\"sourceMap\":\"897d7ded52ae8965d42c8e86c2e0c6fd85d755e8.css.map\",\"sourceMapUrl\":\"/897d7ded52ae8965d42c8e86c2e0c6fd85d755e8.map\",\"size\":249257,\"hash\":\"897d7ded52ae8965d42c8e86c2e0c6fd85d755e8\"},{\"path\":\"packages/velocity_html-reporter/lib/bootstrap/src/fonts/glyphicons-halflings-regular.eot\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/velocity_html-reporter/lib/bootstrap/src/fonts/glyphicons-halflings-regular.eot\",\"size\":14079,\"hash\":\"d53dff38dfb5c414015dfb31d30a473c95b50904\"},{\"path\":\"packages/velocity_html-reporter/lib/bootstrap/src/fonts/glyphicons-halflings-regular.ttf\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/velocity_html-reporter/lib/bootstrap/src/fonts/glyphicons-halflings-regular.ttf\",\"size\":29512,\"hash\":\"c427041d38cd6597ae7e758028ab72756849ec26\"},{\"path\":\"packages/velocity_html-reporter/lib/bootstrap/src/fonts/glyphicons-halflings-regular.woff\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/velocity_html-reporter/lib/bootstrap/src/fonts/glyphicons-halflings-regular.woff\",\"size\":16448,\"hash\":\"c707207e52ffe555a36880e9873d146c226e3533\"},{\"path\":\"packages/velocity_html-reporter/lib/bootstrap/src/fonts/glyphicons-halflings-regular.svg\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/velocity_html-reporter/lib/bootstrap/src/fonts/glyphicons-halflings-regular.svg\",\"size\":63157,\"hash\":\"796e58aedfcfe8a3b0829bc0594f739936a9d7d0\"},{\"path\":\"packages/velocity_html-reporter/lib/spinner.gif\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/velocity_html-reporter/lib/spinner.gif\",\"size\":1849,\"hash\":\"dcabdd743fd3e9d7bd5647abeb86e66a3e6f9597\"},{\"path\":\"packages/ian_bootstrap-3/fonts/glyphicons-halflings-regular.eot\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/ian_bootstrap-3/fonts/glyphicons-halflings-regular.eot\",\"size\":20335,\"hash\":\"f3a9a3b609133c3d21d6b42abbf7f43bd111df72\"},{\"path\":\"packages/ian_bootstrap-3/fonts/glyphicons-halflings-regular.ttf\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/ian_bootstrap-3/fonts/glyphicons-halflings-regular.ttf\",\"size\":41280,\"hash\":\"aafafdc09404c4aa4447d7e898a2183def9cc1b1\"},{\"path\":\"packages/ian_bootstrap-3/fonts/glyphicons-halflings-regular.svg\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/ian_bootstrap-3/fonts/glyphicons-halflings-regular.svg\",\"size\":62927,\"hash\":\"3ef91859cbec165ac97df6957b176f69e8d6a04d\"},{\"path\":\"packages/ian_bootstrap-3/fonts/glyphicons-halflings-regular.woff\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/ian_bootstrap-3/fonts/glyphicons-halflings-regular.woff\",\"size\":23320,\"hash\":\"22037a3455914e5662fa51a596677bdb329e2c5c\"}],\"version\":\"e42f8a3113484388046d0f2c0b0e6d5d4f1b3cac\"}"
+                  "value": "{\"manifest\":[{\"path\":\"packages/underscore.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/underscore.js?0a80a8623e1b40b5df5a05582f288ddd586eaa18\",\"sourceMap\":\"packages/underscore.js.map\",\"sourceMapUrl\":\"/packages/0a80a8623e1b40b5df5a05582f288ddd586eaa18.map\",\"size\":150686,\"hash\":\"0a80a8623e1b40b5df5a05582f288ddd586eaa18\"},{\"path\":\"packages/meteor.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/meteor.js?012a26290d9cb731a3b52b396e571c8159d11236\",\"sourceMap\":\"packages/meteor.js.map\",\"sourceMapUrl\":\"/packages/012a26290d9cb731a3b52b396e571c8159d11236.map\",\"size\":104598,\"hash\":\"012a26290d9cb731a3b52b396e571c8159d11236\"},{\"path\":\"packages/json.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/json.js?e22856eae714c681199eabc5c0710b904b125554\",\"sourceMap\":\"packages/json.js.map\",\"sourceMapUrl\":\"/packages/e22856eae714c681199eabc5c0710b904b125554.map\",\"size\":58343,\"hash\":\"e22856eae714c681199eabc5c0710b904b125554\"},{\"path\":\"packages/base64.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/base64.js?1a63019243b73298e2964e6d4680f25bca657726\",\"sourceMap\":\"packages/base64.js.map\",\"sourceMapUrl\":\"/packages/1a63019243b73298e2964e6d4680f25bca657726.map\",\"size\":15685,\"hash\":\"1a63019243b73298e2964e6d4680f25bca657726\"},{\"path\":\"packages/ejson.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/ejson.js?71047b64b5196348bdbe5fd5eea9ac97a5a9eb14\",\"sourceMap\":\"packages/ejson.js.map\",\"sourceMapUrl\":\"/packages/71047b64b5196348bdbe5fd5eea9ac97a5a9eb14.map\",\"size\":81471,\"hash\":\"71047b64b5196348bdbe5fd5eea9ac97a5a9eb14\"},{\"path\":\"packages/logging.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/logging.js?07e201b648f16be8435a4f666156995eeda0c750\",\"sourceMap\":\"packages/logging.js.map\",\"sourceMapUrl\":\"/packages/07e201b648f16be8435a4f666156995eeda0c750.map\",\"size\":27996,\"hash\":\"07e201b648f16be8435a4f666156995eeda0c750\"},{\"path\":\"packages/reload.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/reload.js?92c60ae92333f52459da974d9158da7fedeb6375\",\"sourceMap\":\"packages/reload.js.map\",\"sourceMapUrl\":\"/packages/92c60ae92333f52459da974d9158da7fedeb6375.map\",\"size\":28228,\"hash\":\"92c60ae92333f52459da974d9158da7fedeb6375\"},{\"path\":\"packages/tracker.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/tracker.js?192a05cc46b867dadbe8bf90dd961f6f8fd1574f\",\"sourceMap\":\"packages/tracker.js.map\",\"sourceMapUrl\":\"/packages/192a05cc46b867dadbe8bf90dd961f6f8fd1574f.map\",\"size\":66854,\"hash\":\"192a05cc46b867dadbe8bf90dd961f6f8fd1574f\"},{\"path\":\"packages/random.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/random.js?fe7b46080c91ce482acf6fc326afbc5b176f0502\",\"sourceMap\":\"packages/random.js.map\",\"sourceMapUrl\":\"/packages/fe7b46080c91ce482acf6fc326afbc5b176f0502.map\",\"size\":24099,\"hash\":\"fe7b46080c91ce482acf6fc326afbc5b176f0502\"},{\"path\":\"packages/retry.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/retry.js?1f1dd2c35d300110fdaba51ce4473583bc3bf031\",\"sourceMap\":\"packages/retry.js.map\",\"sourceMapUrl\":\"/packages/1f1dd2c35d300110fdaba51ce4473583bc3bf031.map\",\"size\":7245,\"hash\":\"1f1dd2c35d300110fdaba51ce4473583bc3bf031\"},{\"path\":\"packages/check.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/check.js?803a2be518a0c6c3949e45cf65c4ad627a3d603a\",\"sourceMap\":\"packages/check.js.map\",\"sourceMapUrl\":\"/packages/803a2be518a0c6c3949e45cf65c4ad627a3d603a.map\",\"size\":35207,\"hash\":\"803a2be518a0c6c3949e45cf65c4ad627a3d603a\"},{\"path\":\"packages/id-map.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/id-map.js?9ea6eaae8d74693ce2505a858d9a5e60cf191298\",\"sourceMap\":\"packages/id-map.js.map\",\"sourceMapUrl\":\"/packages/9ea6eaae8d74693ce2505a858d9a5e60cf191298.map\",\"size\":8584,\"hash\":\"9ea6eaae8d74693ce2505a858d9a5e60cf191298\"},{\"path\":\"packages/ordered-dict.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/ordered-dict.js?bf8af2f26c8d96bf8b2e6b407d3ed69f23c2cd37\",\"sourceMap\":\"packages/ordered-dict.js.map\",\"sourceMapUrl\":\"/packages/bf8af2f26c8d96bf8b2e6b407d3ed69f23c2cd37.map\",\"size\":20395,\"hash\":\"bf8af2f26c8d96bf8b2e6b407d3ed69f23c2cd37\"},{\"path\":\"packages/geojson-utils.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/geojson-utils.js?81b79d5cf96d00b4b7a28987debcffb665c17526\",\"sourceMap\":\"packages/geojson-utils.js.map\",\"sourceMapUrl\":\"/packages/81b79d5cf96d00b4b7a28987debcffb665c17526.map\",\"size\":48339,\"hash\":\"81b79d5cf96d00b4b7a28987debcffb665c17526\"},{\"path\":\"packages/minimongo.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/minimongo.js?9005f7df7e2bef877712fee40d7b14aa8f5d4f8b\",\"sourceMap\":\"packages/minimongo.js.map\",\"sourceMapUrl\":\"/packages/9005f7df7e2bef877712fee40d7b14aa8f5d4f8b.map\",\"size\":427384,\"hash\":\"9005f7df7e2bef877712fee40d7b14aa8f5d4f8b\"},{\"path\":\"packages/ddp.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/ddp.js?ed3a8b20e91a598de5b24a7c98c5ae4be1c0f9e6\",\"sourceMap\":\"packages/ddp.js.map\",\"sourceMapUrl\":\"/packages/ed3a8b20e91a598de5b24a7c98c5ae4be1c0f9e6.map\",\"size\":617168,\"hash\":\"ed3a8b20e91a598de5b24a7c98c5ae4be1c0f9e6\"},{\"path\":\"packages/follower-livedata.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/follower-livedata.js?74156c6baa89da861fc4ddb58ef158eac71e58e0\",\"sourceMap\":\"packages/follower-livedata.js.map\",\"sourceMapUrl\":\"/packages/74156c6baa89da861fc4ddb58ef158eac71e58e0.map\",\"size\":1490,\"hash\":\"74156c6baa89da861fc4ddb58ef158eac71e58e0\"},{\"path\":\"packages/application-configuration.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/application-configuration.js?dcbf1f0774460fccf098a4c9e8fad4c3a0f2952f\",\"sourceMap\":\"packages/application-configuration.js.map\",\"sourceMapUrl\":\"/packages/dcbf1f0774460fccf098a4c9e8fad4c3a0f2952f.map\",\"size\":1485,\"hash\":\"dcbf1f0774460fccf098a4c9e8fad4c3a0f2952f\"},{\"path\":\"packages/mongo.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/mongo.js?9bc2c5a8b2796fab86b51660ca643e5a49a30c84\",\"sourceMap\":\"packages/mongo.js.map\",\"sourceMapUrl\":\"/packages/9bc2c5a8b2796fab86b51660ca643e5a49a30c84.map\",\"size\":146178,\"hash\":\"9bc2c5a8b2796fab86b51660ca643e5a49a30c84\"},{\"path\":\"packages/autoupdate.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/autoupdate.js?c823646e93561d86e6bcb3cbd2457a8540e519c1\",\"sourceMap\":\"packages/autoupdate.js.map\",\"sourceMapUrl\":\"/packages/c823646e93561d86e6bcb3cbd2457a8540e519c1.map\",\"size\":17152,\"hash\":\"c823646e93561d86e6bcb3cbd2457a8540e519c1\"},{\"path\":\"packages/meteor-platform.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/meteor-platform.js?499a2f8522e25820b1153c69a92751ccaae507b3\",\"sourceMap\":\"packages/meteor-platform.js.map\",\"sourceMapUrl\":\"/packages/499a2f8522e25820b1153c69a92751ccaae507b3.map\",\"size\":1384,\"hash\":\"499a2f8522e25820b1153c69a92751ccaae507b3\"},{\"path\":\"packages/localstorage.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/localstorage.js?9ec7d68858d2e33aa807e5cfd5e12bb4d62fe00c\",\"sourceMap\":\"packages/localstorage.js.map\",\"sourceMapUrl\":\"/packages/9ec7d68858d2e33aa807e5cfd5e12bb4d62fe00c.map\",\"size\":7092,\"hash\":\"9ec7d68858d2e33aa807e5cfd5e12bb4d62fe00c\"},{\"path\":\"packages/jquery.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/jquery.js?265926494aaa3929cd2e30da265211c5929f37a4\",\"sourceMap\":\"packages/jquery.js.map\",\"sourceMapUrl\":\"/packages/265926494aaa3929cd2e30da265211c5929f37a4.map\",\"size\":1295407,\"hash\":\"265926494aaa3929cd2e30da265211c5929f37a4\"},{\"path\":\"packages/deps.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/deps.js?504589e1e9585dec8f9f6094e5a87b22de3783a1\",\"sourceMap\":\"packages/deps.js.map\",\"sourceMapUrl\":\"/packages/504589e1e9585dec8f9f6094e5a87b22de3783a1.map\",\"size\":1442,\"hash\":\"504589e1e9585dec8f9f6094e5a87b22de3783a1\"},{\"path\":\"packages/htmljs.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/htmljs.js?b0108e24d5956ee910ea579c7a4ace00b4ecd4ae\",\"sourceMap\":\"packages/htmljs.js.map\",\"sourceMapUrl\":\"/packages/b0108e24d5956ee910ea579c7a4ace00b4ecd4ae.map\",\"size\":110439,\"hash\":\"b0108e24d5956ee910ea579c7a4ace00b4ecd4ae\"},{\"path\":\"packages/observe-sequence.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/observe-sequence.js?2fd807ea171ead273b9e6458607cb226012d9240\",\"sourceMap\":\"packages/observe-sequence.js.map\",\"sourceMapUrl\":\"/packages/2fd807ea171ead273b9e6458607cb226012d9240.map\",\"size\":30271,\"hash\":\"2fd807ea171ead273b9e6458607cb226012d9240\"},{\"path\":\"packages/reactive-var.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/reactive-var.js?20335b7b37165980ddd9f23943b2e5b00aae1cc2\",\"sourceMap\":\"packages/reactive-var.js.map\",\"sourceMapUrl\":\"/packages/20335b7b37165980ddd9f23943b2e5b00aae1cc2.map\",\"size\":13963,\"hash\":\"20335b7b37165980ddd9f23943b2e5b00aae1cc2\"},{\"path\":\"packages/blaze.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/blaze.js?7b7ff7ee2ccdccd85a1ad0d8dc9d96193e29e8b0\",\"sourceMap\":\"packages/blaze.js.map\",\"sourceMapUrl\":\"/packages/7b7ff7ee2ccdccd85a1ad0d8dc9d96193e29e8b0.map\",\"size\":380068,\"hash\":\"7b7ff7ee2ccdccd85a1ad0d8dc9d96193e29e8b0\"},{\"path\":\"packages/accounts-base.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/accounts-base.js?94972067650078763eca7f54b72598624e0d8b9d\",\"sourceMap\":\"packages/accounts-base.js.map\",\"sourceMapUrl\":\"/packages/94972067650078763eca7f54b72598624e0d8b9d.map\",\"size\":96808,\"hash\":\"94972067650078763eca7f54b72598624e0d8b9d\"},{\"path\":\"packages/sha.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/sha.js?65ef52f7221944768bfc2049d6b7e163c8ae2615\",\"sourceMap\":\"packages/sha.js.map\",\"sourceMapUrl\":\"/packages/65ef52f7221944768bfc2049d6b7e163c8ae2615.map\",\"size\":19584,\"hash\":\"65ef52f7221944768bfc2049d6b7e163c8ae2615\"},{\"path\":\"packages/srp.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/srp.js?e2e28156e8c912d504a3586351c8a1119f664cfd\",\"sourceMap\":\"packages/srp.js.map\",\"sourceMapUrl\":\"/packages/e2e28156e8c912d504a3586351c8a1119f664cfd.map\",\"size\":173470,\"hash\":\"e2e28156e8c912d504a3586351c8a1119f664cfd\"},{\"path\":\"packages/accounts-password.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/accounts-password.js?6c517b689e15ab07dd443895b7ed801683dda159\",\"sourceMap\":\"packages/accounts-password.js.map\",\"sourceMapUrl\":\"/packages/6c517b689e15ab07dd443895b7ed801683dda159.map\",\"size\":33053,\"hash\":\"6c517b689e15ab07dd443895b7ed801683dda159\"},{\"path\":\"packages/alanning_roles.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/alanning_roles.js?79ec06e46df4edfbc286f83d1ad8064d46d44990\",\"sourceMap\":\"packages/alanning_roles.js.map\",\"sourceMapUrl\":\"/packages/79ec06e46df4edfbc286f83d1ad8064d46d44990.map\",\"size\":94498,\"hash\":\"79ec06e46df4edfbc286f83d1ad8064d46d44990\"},{\"path\":\"packages/reactive-dict.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/reactive-dict.js?6b25309b1f0dcf775b44984324878d6f8ad1abc2\",\"sourceMap\":\"packages/reactive-dict.js.map\",\"sourceMapUrl\":\"/packages/6b25309b1f0dcf775b44984324878d6f8ad1abc2.map\",\"size\":19802,\"hash\":\"6b25309b1f0dcf775b44984324878d6f8ad1abc2\"},{\"path\":\"packages/templating.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/templating.js?6420eb7dcc133dc4c49a090c3c6f31bf3ce71fe8\",\"sourceMap\":\"packages/templating.js.map\",\"sourceMapUrl\":\"/packages/6420eb7dcc133dc4c49a090c3c6f31bf3ce71fe8.map\",\"size\":10464,\"hash\":\"6420eb7dcc133dc4c49a090c3c6f31bf3ce71fe8\"},{\"path\":\"packages/iron_core.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_core.js?fe41a023a7a6f1ded90b0729437928a8ddccc7d4\",\"sourceMap\":\"packages/iron_core.js.map\",\"sourceMapUrl\":\"/packages/fe41a023a7a6f1ded90b0729437928a8ddccc7d4.map\",\"size\":31679,\"hash\":\"fe41a023a7a6f1ded90b0729437928a8ddccc7d4\"},{\"path\":\"packages/ui.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/ui.js?5a663333fd30f8fd913f110e0ef779e84f67c4b8\",\"sourceMap\":\"packages/ui.js.map\",\"sourceMapUrl\":\"/packages/5a663333fd30f8fd913f110e0ef779e84f67c4b8.map\",\"size\":1529,\"hash\":\"5a663333fd30f8fd913f110e0ef779e84f67c4b8\"},{\"path\":\"packages/iron_dynamic-template.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_dynamic-template.js?32038885cb1dad7957291ffebfffcb7f8cd57d20\",\"sourceMap\":\"packages/iron_dynamic-template.js.map\",\"sourceMapUrl\":\"/packages/32038885cb1dad7957291ffebfffcb7f8cd57d20.map\",\"size\":51775,\"hash\":\"32038885cb1dad7957291ffebfffcb7f8cd57d20\"},{\"path\":\"packages/iron_layout.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_layout.js?080dc95e770e3130757bf6af69fd0abb99573ae4\",\"sourceMap\":\"packages/iron_layout.js.map\",\"sourceMapUrl\":\"/packages/080dc95e770e3130757bf6af69fd0abb99573ae4.map\",\"size\":56973,\"hash\":\"080dc95e770e3130757bf6af69fd0abb99573ae4\"},{\"path\":\"packages/iron_router.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_router.js?da7f2ac81c3fd9daebf49ce9a6980a54caa1dc17\",\"sourceMap\":\"packages/iron_router.js.map\",\"sourceMapUrl\":\"/packages/da7f2ac81c3fd9daebf49ce9a6980a54caa1dc17.map\",\"size\":250621,\"hash\":\"da7f2ac81c3fd9daebf49ce9a6980a54caa1dc17\"},{\"path\":\"packages/sanjo_jasmine.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/sanjo_jasmine.js?859321d8a5ada22725d36639d9df70e2eaab4900\",\"sourceMap\":\"packages/sanjo_jasmine.js.map\",\"sourceMapUrl\":\"/packages/859321d8a5ada22725d36639d9df70e2eaab4900.map\",\"size\":547705,\"hash\":\"859321d8a5ada22725d36639d9df70e2eaab4900\"},{\"path\":\"packages/url.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/url.js?f267b683007ca477629c166b4bd43499e3122351\",\"sourceMap\":\"packages/url.js.map\",\"sourceMapUrl\":\"/packages/f267b683007ca477629c166b4bd43499e3122351.map\",\"size\":6612,\"hash\":\"f267b683007ca477629c166b4bd43499e3122351\"},{\"path\":\"packages/http.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/http.js?9c5d152169ba9a5a57b6b8ec28e64bbd0d308077\",\"sourceMap\":\"packages/http.js.map\",\"sourceMapUrl\":\"/packages/9c5d152169ba9a5a57b6b8ec28e64bbd0d308077.map\",\"size\":37036,\"hash\":\"9c5d152169ba9a5a57b6b8ec28e64bbd0d308077\"},{\"path\":\"packages/velocity_core.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/velocity_core.js?6ca46c76b400ce620d5a99a1a6edfec60ca0ba1a\",\"sourceMap\":\"packages/velocity_core.js.map\",\"sourceMapUrl\":\"/packages/6ca46c76b400ce620d5a99a1a6edfec60ca0ba1a.map\",\"size\":6854,\"hash\":\"6ca46c76b400ce620d5a99a1a6edfec60ca0ba1a\"},{\"path\":\"packages/amplify.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/amplify.js?0943ecb804169b991257a319fa92b9e6f34e2d1b\",\"sourceMap\":\"packages/amplify.js.map\",\"sourceMapUrl\":\"/packages/0943ecb804169b991257a319fa92b9e6f34e2d1b.map\",\"size\":88428,\"hash\":\"0943ecb804169b991257a319fa92b9e6f34e2d1b\"},{\"path\":\"packages/less.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/less.js?7d1bf981a25a449d6270558bcfc983313c40cd26\",\"sourceMap\":\"packages/less.js.map\",\"sourceMapUrl\":\"/packages/7d1bf981a25a449d6270558bcfc983313c40cd26.map\",\"size\":1286,\"hash\":\"7d1bf981a25a449d6270558bcfc983313c40cd26\"},{\"path\":\"packages/velocity_html-reporter.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/velocity_html-reporter.js?6c24ef7bd026690306effa4c6e77fd0c21902b5e\",\"sourceMap\":\"packages/velocity_html-reporter.js.map\",\"sourceMapUrl\":\"/packages/6c24ef7bd026690306effa4c6e77fd0c21902b5e.map\",\"size\":83898,\"hash\":\"6c24ef7bd026690306effa4c6e77fd0c21902b5e\"},{\"path\":\"packages/sacha_spin.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/sacha_spin.js?6ab6fb94c8dfd98b9fdc1a9831a8051edeec5c04\",\"sourceMap\":\"packages/sacha_spin.js.map\",\"sourceMapUrl\":\"/packages/6ab6fb94c8dfd98b9fdc1a9831a8051edeec5c04.map\",\"size\":48440,\"hash\":\"6ab6fb94c8dfd98b9fdc1a9831a8051edeec5c04\"},{\"path\":\"packages/ian_bootstrap-3.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/ian_bootstrap-3.js?a879af171425e8f04aa2b9c4eb6d83eb72d9bef0\",\"sourceMap\":\"packages/ian_bootstrap-3.js.map\",\"sourceMapUrl\":\"/packages/a879af171425e8f04aa2b9c4eb6d83eb72d9bef0.map\",\"size\":34027,\"hash\":\"a879af171425e8f04aa2b9c4eb6d83eb72d9bef0\"},{\"path\":\"packages/session.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/session.js?442b1bc169c2a1fb8c1fc5420041baa1ed9cb940\",\"sourceMap\":\"packages/session.js.map\",\"sourceMapUrl\":\"/packages/442b1bc169c2a1fb8c1fc5420041baa1ed9cb940.map\",\"size\":6487,\"hash\":\"442b1bc169c2a1fb8c1fc5420041baa1ed9cb940\"},{\"path\":\"packages/handlebars.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/handlebars.js?038145b6256cd6a69c11650ed6bf12b093920095\",\"sourceMap\":\"packages/handlebars.js.map\",\"sourceMapUrl\":\"/packages/038145b6256cd6a69c11650ed6bf12b093920095.map\",\"size\":1292,\"hash\":\"038145b6256cd6a69c11650ed6bf12b093920095\"},{\"path\":\"packages/stylus.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/stylus.js?48b7e3e0953c004a73211d7489462e73ed11be2c\",\"sourceMap\":\"packages/stylus.js.map\",\"sourceMapUrl\":\"/packages/48b7e3e0953c004a73211d7489462e73ed11be2c.map\",\"size\":1288,\"hash\":\"48b7e3e0953c004a73211d7489462e73ed11be2c\"},{\"path\":\"packages/anti_i18n.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/anti_i18n.js?b753e9e958be5df82d8bdde8dc342a2870ccf372\",\"sourceMap\":\"packages/anti_i18n.js.map\",\"sourceMapUrl\":\"/packages/b753e9e958be5df82d8bdde8dc342a2870ccf372.map\",\"size\":11110,\"hash\":\"b753e9e958be5df82d8bdde8dc342a2870ccf372\"},{\"path\":\"packages/ian_accounts-ui-bootstrap-3.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/ian_accounts-ui-bootstrap-3.js?4355f1b108aa7a8744097a8261049e7ba9f7539f\",\"sourceMap\":\"packages/ian_accounts-ui-bootstrap-3.js.map\",\"sourceMapUrl\":\"/packages/4355f1b108aa7a8744097a8261049e7ba9f7539f.map\",\"size\":277063,\"hash\":\"4355f1b108aa7a8744097a8261049e7ba9f7539f\"},{\"path\":\"packages/webapp.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/webapp.js?e1be090051b82f046484dccc2de7d747e50c7328\",\"sourceMap\":\"packages/webapp.js.map\",\"sourceMapUrl\":\"/packages/e1be090051b82f046484dccc2de7d747e50c7328.map\",\"size\":3106,\"hash\":\"e1be090051b82f046484dccc2de7d747e50c7328\"},{\"path\":\"packages/livedata.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/livedata.js?718526445deb4d9baacb6d92c551adea1d36c1e1\",\"sourceMap\":\"packages/livedata.js.map\",\"sourceMapUrl\":\"/packages/718526445deb4d9baacb6d92c551adea1d36c1e1.map\",\"size\":1413,\"hash\":\"718526445deb4d9baacb6d92c551adea1d36c1e1\"},{\"path\":\"packages/spacebars.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/spacebars.js?cb20740019f26bdca2faa89ba9c973f618118521\",\"sourceMap\":\"packages/spacebars.js.map\",\"sourceMapUrl\":\"/packages/cb20740019f26bdca2faa89ba9c973f618118521.map\",\"size\":41807,\"hash\":\"cb20740019f26bdca2faa89ba9c973f618118521\"},{\"path\":\"packages/global-imports.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/global-imports.js?014ae7bb2cc02fbb838f5972ca8a41f4b319f0b9\",\"size\":1023,\"hash\":\"014ae7bb2cc02fbb838f5972ca8a41f4b319f0b9\"},{\"path\":\"app/client/views/application/template.layout.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/views/application/template.layout.js?df3541616350122db3caaa02a68386716cc64f79\",\"size\":263,\"hash\":\"df3541616350122db3caaa02a68386716cc64f79\"},{\"path\":\"app/client/views/application/template.loading.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/views/application/template.loading.js?52d92b0e7209908afe3964cd39112d59465479b2\",\"size\":365,\"hash\":\"52d92b0e7209908afe3964cd39112d59465479b2\"},{\"path\":\"app/client/views/header/template.header.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/views/header/template.header.js?e8bb6fbd56a88d4dab5162be9fa40b3685a40af6\",\"size\":1722,\"hash\":\"e8bb6fbd56a88d4dab5162be9fa40b3685a40af6\"},{\"path\":\"app/client/views/introduction/template.introduction.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/views/introduction/template.introduction.js?e72be2e5695309057f46bd6a96d5761788e661df\",\"size\":619,\"hash\":\"e72be2e5695309057f46bd6a96d5761788e661df\"},{\"path\":\"app/lib/router.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/lib/router.js?6d51bd359c53a02c470b86e0ed75bf646f460a35\",\"size\":1380,\"hash\":\"6d51bd359c53a02c470b86e0ed75bf646f460a35\"},{\"path\":\"app/lib/tutorialCollection.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/lib/tutorialCollection.js?89bfe026c8cef8675e7edb8eda98deaf73cedda7\",\"size\":3132,\"hash\":\"89bfe026c8cef8675e7edb8eda98deaf73cedda7\"},{\"path\":\"app/lib/tutorialRegistrationsCollection.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/lib/tutorialRegistrationsCollection.js?a4d785b96dbfad884f60729cfa39c343ba4c95f7\",\"size\":90,\"hash\":\"a4d785b96dbfad884f60729cfa39c343ba4c95f7\"},{\"path\":\"app/client/main.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/main.js?61cc931b99aac059f8903e9738008948795864fa\",\"size\":649,\"hash\":\"61cc931b99aac059f8903e9738008948795864fa\"},{\"path\":\"packages/service-configuration.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/service-configuration.js?262da6fb1e9c97be84333c429c9a2929c80f8e3b\",\"sourceMap\":\"packages/service-configuration.js.map\",\"sourceMapUrl\":\"/packages/262da6fb1e9c97be84333c429c9a2929c80f8e3b.map\",\"size\":5082,\"hash\":\"262da6fb1e9c97be84333c429c9a2929c80f8e3b\"},{\"path\":\"897d7ded52ae8965d42c8e86c2e0c6fd85d755e8.css\",\"where\":\"client\",\"type\":\"css\",\"cacheable\":true,\"url\":\"/897d7ded52ae8965d42c8e86c2e0c6fd85d755e8.css\",\"sourceMap\":\"897d7ded52ae8965d42c8e86c2e0c6fd85d755e8.css.map\",\"sourceMapUrl\":\"/897d7ded52ae8965d42c8e86c2e0c6fd85d755e8.map\",\"size\":249257,\"hash\":\"897d7ded52ae8965d42c8e86c2e0c6fd85d755e8\"},{\"path\":\"packages/velocity_html-reporter/lib/bootstrap/src/fonts/glyphicons-halflings-regular.eot\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/velocity_html-reporter/lib/bootstrap/src/fonts/glyphicons-halflings-regular.eot\",\"size\":14079,\"hash\":\"d53dff38dfb5c414015dfb31d30a473c95b50904\"},{\"path\":\"packages/velocity_html-reporter/lib/bootstrap/src/fonts/glyphicons-halflings-regular.ttf\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/velocity_html-reporter/lib/bootstrap/src/fonts/glyphicons-halflings-regular.ttf\",\"size\":29512,\"hash\":\"c427041d38cd6597ae7e758028ab72756849ec26\"},{\"path\":\"packages/velocity_html-reporter/lib/bootstrap/src/fonts/glyphicons-halflings-regular.woff\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/velocity_html-reporter/lib/bootstrap/src/fonts/glyphicons-halflings-regular.woff\",\"size\":16448,\"hash\":\"c707207e52ffe555a36880e9873d146c226e3533\"},{\"path\":\"packages/velocity_html-reporter/lib/bootstrap/src/fonts/glyphicons-halflings-regular.svg\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/velocity_html-reporter/lib/bootstrap/src/fonts/glyphicons-halflings-regular.svg\",\"size\":63157,\"hash\":\"796e58aedfcfe8a3b0829bc0594f739936a9d7d0\"},{\"path\":\"packages/velocity_html-reporter/lib/spinner.gif\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/velocity_html-reporter/lib/spinner.gif\",\"size\":1849,\"hash\":\"dcabdd743fd3e9d7bd5647abeb86e66a3e6f9597\"},{\"path\":\"packages/ian_bootstrap-3/fonts/glyphicons-halflings-regular.eot\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/ian_bootstrap-3/fonts/glyphicons-halflings-regular.eot\",\"size\":20335,\"hash\":\"f3a9a3b609133c3d21d6b42abbf7f43bd111df72\"},{\"path\":\"packages/ian_bootstrap-3/fonts/glyphicons-halflings-regular.ttf\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/ian_bootstrap-3/fonts/glyphicons-halflings-regular.ttf\",\"size\":41280,\"hash\":\"aafafdc09404c4aa4447d7e898a2183def9cc1b1\"},{\"path\":\"packages/ian_bootstrap-3/fonts/glyphicons-halflings-regular.svg\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/ian_bootstrap-3/fonts/glyphicons-halflings-regular.svg\",\"size\":62927,\"hash\":\"3ef91859cbec165ac97df6957b176f69e8d6a04d\"},{\"path\":\"packages/ian_bootstrap-3/fonts/glyphicons-halflings-regular.woff\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/ian_bootstrap-3/fonts/glyphicons-halflings-regular.woff\",\"size\":23320,\"hash\":\"22037a3455914e5662fa51a596677bdb329e2c5c\"}],\"version\":\"009c903dd53bdb2556ac40e5faa0b61784c9d695\"}"
                 },
                 "type": {
                   "type": "constant",
@@ -9654,11 +9686,11 @@ var packageMetadata = {
       "members": {
         "autoupdateVersion": {
           "type": "constant",
-          "value": "5d2d1b0f8a4177dfcb3530a65d0cbbc3a53a62b9"
+          "value": "beef4ee30566b3c0fda3e45a1d86e03b9701e436"
         },
         "autoupdateVersionRefreshable": {
           "type": "constant",
-          "value": "02e6c20b74bb898e49e5895e428d771f4e06cb10"
+          "value": "b55fe9cc3723ebede8b2a9dcca613c4eb810dca3"
         },
         "autoupdateVersionCordova": {
           "type": "constant",
@@ -9983,9 +10015,6 @@ var packageMetadata = {
               "type": "function"
             },
             "equals": {
-              "type": "function"
-            },
-            "getMigrationData": {
               "type": "function"
             }
           }

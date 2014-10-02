@@ -1,5 +1,5 @@
- "use strict";
-describe("Tutorial", function() {
+"use strict";
+describe("Tutorial", function () {
     it("should be created by admins", function (done) {
         // login to system and wait for callback
         Meteor.loginWithPassword("admin@tutorials.com", "admin3210", function(err) {
@@ -11,7 +11,7 @@ describe("Tutorial", function() {
 
             // save the tutorial and use callback function to check for existence
             var id = tut.save(function(error, result) {
-                expect(error.error).toBe(403);
+                expect(error).toBeUndefined();
 
                 // delete created tutorial
                 Tutorials.remove(id);
@@ -21,5 +21,4 @@ describe("Tutorial", function() {
                 })
             });
         });
-    });
-});
+    });});
