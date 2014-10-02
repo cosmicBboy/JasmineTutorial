@@ -1,15 +1,31 @@
 <template name="tutorials">
   <div class="container">
+    <br/>
+    <br/>
     <h1>Tutorials</h1>
     {{#if tutorials.count}}
       {{#each tutorials}}
+        {{#with tutorialModel}}
+          <div class="row tutorialLine">
+            {{name}} <span class="badge"> {{currentCapacity}} / {{capacity}} </span>
 
-      <div class="tutorialLine">Line</div>
+            {{#if isInRole 'admin'}}
+              {{#if canDelete}}
+              <span class="glyphicon glyphicon-trash removeTutorial"></span> Delete
+              {{/if}}
+              <a class="btn btn-info pull-right modifyTutorial" href="{{pathFor 'admin'}}"><span class="glyphicon glyphicon-edit"></span> Edit </a>
+            {{/if}}
+          </div>
+        {{/with}}
       {{/each}}
     {{else}}
 
     <p class="well bg-warning" id="noTutorialsWarning">There are no tutorials available ...
     </p>
+    {{/if}}
+
+    {{#if isInRole 'admin'}}
+      <a href="{{pathFor 'admin'}}" class="btn btn-primary" id="createTutorial">Create Tutorial</a>
     {{/if}}
   </div>
 </template>
